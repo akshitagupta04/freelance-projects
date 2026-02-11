@@ -20,4 +20,4 @@ Short-term freelance engagement involving solving structured electronics problem
 
 --- 
 
-**Note: Project files are not publicly shared due to client ownership / NDA.** 
+**Note: Project files are not publicly shared due to client ownership / NDA. All work was performed in compliance with professional academic tutoring standards.** 
