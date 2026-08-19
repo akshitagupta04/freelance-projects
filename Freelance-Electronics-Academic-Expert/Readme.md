@@ -1,5 +1,5 @@
 # Freelance Electronics Academic Expert
-Remote | Dec 2024 – Jan 2025
+India (remote) | Dec 2024 – Jan 2025
 
 ## Overview
 Short-term freelance work involving solving structured electronics problem sets related to semiconductor and analog electronics.
