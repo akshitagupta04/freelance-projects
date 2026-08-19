@@ -7,10 +7,11 @@ Short-term freelance engagement involving solving structured electronics problem
 ---
 
 ## Responsibilities
-- Performed time-domain simulations and waveform analysis for diode and rectifier circuits using CircuitLab.
-- Utilised CircuitLab plots CSV export to Microsoft Excel for numerical analysis through graphs.
-- Solved operational amplifier and transistor circuit problems through analytical calculations.
-- Delivered structured technical solutions within strict timelines.
+- Performed time-domain simulations and waveform analysis of diode and rectifier circuits using CircuitLab.
+- Exported CircuitLab simulation data as CSV and analysed numerical results in Microsoft Excel using graphs.
+- Solved operational amplifier and transistor circuit problems using analytical calculations and circuit analysis.
+- Delivered technical solutions within defined deadlines. 
+
 
 ---
 
