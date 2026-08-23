@@ -1,2 +1,2 @@
 # Freelance Projects
-Freelance project work showcasing Verilog/VHDL RTL design, hardware design, core electronics, as well as other technical work experience. 
+Pursuing freelance work in VHDL/Verilog RTL design, hardware design, core electronics as well as other technical work to broaden my practical experience. I gained 10 months of hands-on experience in technical writing, technical documentation, and CircuitLab.
